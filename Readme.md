@@ -31,6 +31,7 @@ Completa el asistente, seleccionando:
     - Java: 21
 - Dependencias
     - Spring Boot DevTools
+	- Lombok
     - Spring Web
     - Thymeleaf
     - MySQL Driver
